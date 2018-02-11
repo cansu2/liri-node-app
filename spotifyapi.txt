@@ -1,6 +1,6 @@
 {
   "tracks": {
-    "href": "https://api.spotify.com/v1/search?query=hollaback+girl&type=track&offset=0&limit=20",
+    "href": "https://api.spotify.com/v1/search?query=The+Sign+Ace+Base&type=track&offset=0&limit=20",
     "items": [
       {
         "album": {
@@ -8,175 +8,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
               },
-              "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-              "id": "4yiQZ8tQPux8cPriYMWUFP",
-              "name": "Gwen Stefani",
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
               "type": "artist",
-              "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1HduTydfaUY3idi2YgT3mb"
-          },
-          "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-          "id": "1HduTydfaUY3idi2YgT3mb",
-          "images": [
-            {
-              "height": 635,
-              "url": "https://i.scdn.co/image/7e69722d9c70eebd6e9ee07536ba0dbc4eefe584",
-              "width": 640
-            },
-            {
-              "height": 297,
-              "url": "https://i.scdn.co/image/8173a5b65ba02801e187aec6c163e6926a30a680",
-              "width": 300
-            },
-            {
-              "height": 63,
-              "url": "https://i.scdn.co/image/215b9b47d472357b349d6929a136a9f41809ec4d",
-              "width": 64
-            }
-          ],
-          "name": "Love Angel Music Baby",
-          "type": "album",
-          "uri": "spotify:album:1HduTydfaUY3idi2YgT3mb"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-            },
-            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-            "id": "4yiQZ8tQPux8cPriYMWUFP",
-            "name": "Gwen Stefani",
-            "type": "artist",
-            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "MX",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 199906,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USIR10400847"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6RcQOut9fWL6FSqeIr5M1r"
-        },
-        "href": "https://api.spotify.com/v1/tracks/6RcQOut9fWL6FSqeIr5M1r",
-        "id": "6RcQOut9fWL6FSqeIr5M1r",
-        "name": "Hollaback Girl",
-        "popularity": 74,
-        "preview_url": null,
-        "track_number": 3,
-        "type": "track",
-        "uri": "spotify:track:6RcQOut9fWL6FSqeIr5M1r"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-              },
-              "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-              "id": "4yiQZ8tQPux8cPriYMWUFP",
-              "name": "Gwen Stefani",
-              "type": "artist",
-              "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-          },
-          "href": "https://api.spotify.com/v1/albums/3Lqn8M0QxPLIPRJ4nUKTGN",
-          "id": "3Lqn8M0QxPLIPRJ4nUKTGN",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/f7caf28e51936306738dd89c54589949dddc181e",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/2e048a2416ac522ed2e77ce78c68a345290eb68a",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/8142ed2217dbbc0331560192630eae60dd29bac1",
-              "width": 64
-            }
-          ],
-          "name": "Love Angel Music Baby (Deluxe Version)",
-          "type": "album",
-          "uri": "spotify:album:3Lqn8M0QxPLIPRJ4nUKTGN"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-            },
-            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-            "id": "4yiQZ8tQPux8cPriYMWUFP",
-            "name": "Gwen Stefani",
-            "type": "artist",
-            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "MX",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 199853,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USIR10400847"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0LzrhCZFXW94Y8nwtTuRlw",
-        "id": "0LzrhCZFXW94Y8nwtTuRlw",
-        "name": "Hollaback Girl",
-        "popularity": 42,
-        "preview_url": null,
-        "track_number": 3,
-        "type": "track",
-        "uri": "spotify:track:0LzrhCZFXW94Y8nwtTuRlw"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-              },
-              "href": "https://api.spotify.com/v1/artists/5HYNPEO2NNBONQkp3Mvwvc",
-              "id": "5HYNPEO2NNBONQkp3Mvwvc",
-              "name": "Scott Bradlee's Postmodern Jukebox",
-              "type": "artist",
-              "uri": "spotify:artist:5HYNPEO2NNBONQkp3Mvwvc"
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
             }
           ],
           "available_markets": [
@@ -243,524 +81,41 @@
             "UY"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6TWv3N5YF6fKHbB4lfcawH"
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
           },
-          "href": "https://api.spotify.com/v1/albums/6TWv3N5YF6fKHbB4lfcawH",
-          "id": "6TWv3N5YF6fKHbB4lfcawH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/d28118cc695af6f29e51887958d940302d4f6745",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/bfcd5ad6d91e72e7e22835bf84529a23bafea12b",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/b1cfa85f702b1834f4b7667b981e4642ed1a9008",
-              "width": 64
-            }
-          ],
-          "name": "Swing The Vote!",
-          "type": "album",
-          "uri": "spotify:album:6TWv3N5YF6fKHbB4lfcawH"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-            },
-            "href": "https://api.spotify.com/v1/artists/5HYNPEO2NNBONQkp3Mvwvc",
-            "id": "5HYNPEO2NNBONQkp3Mvwvc",
-            "name": "Scott Bradlee's Postmodern Jukebox",
-            "type": "artist",
-            "uri": "spotify:artist:5HYNPEO2NNBONQkp3Mvwvc"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/19RHMn8FFkEFmhPwyDW2ZC"
-            },
-            "href": "https://api.spotify.com/v1/artists/19RHMn8FFkEFmhPwyDW2ZC",
-            "id": "19RHMn8FFkEFmhPwyDW2ZC",
-            "name": "Robyn Adele Anderson",
-            "type": "artist",
-            "uri": "spotify:artist:19RHMn8FFkEFmhPwyDW2ZC"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "EC",
-          "EE",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IS",
-          "IT",
-          "JP",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "PY",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TR",
-          "TW",
-          "US",
-          "UY"
-        ],
-        "disc_number": 1,
-        "duration_ms": 204965,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "GBDMT1600096"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/32qKAvGaw8s8UM5pcJMF9X"
-        },
-        "href": "https://api.spotify.com/v1/tracks/32qKAvGaw8s8UM5pcJMF9X",
-        "id": "32qKAvGaw8s8UM5pcJMF9X",
-        "name": "Hollaback Girl",
-        "popularity": 38,
-        "preview_url": "https://p.scdn.co/mp3-preview/9e43f2fcad3c606504b600024d10b2736ac71493?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 3,
-        "type": "track",
-        "uri": "spotify:track:32qKAvGaw8s8UM5pcJMF9X"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-              },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
-              "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2R7nSAPTn5Xpb9UAEC3oI9"
-          },
-          "href": "https://api.spotify.com/v1/albums/2R7nSAPTn5Xpb9UAEC3oI9",
-          "id": "2R7nSAPTn5Xpb9UAEC3oI9",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/4f8b6fbdcbc0dc0f24a1d01dc21bab905fd4825b",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/2515ff0af889dc28192adc28ade98a7e44caa137",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/86b5f4872d44d4c4a0d125e83ca356147a64ae05",
-              "width": 64
-            }
-          ],
-          "name": "00s Mixtape",
-          "type": "album",
-          "uri": "spotify:album:2R7nSAPTn5Xpb9UAEC3oI9"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-            },
-            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-            "id": "4yiQZ8tQPux8cPriYMWUFP",
-            "name": "Gwen Stefani",
-            "type": "artist",
-            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "MX",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 199949,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USIR10400847"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0Kbo09EJvYzAckGQOWnf9z"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0Kbo09EJvYzAckGQOWnf9z",
-        "id": "0Kbo09EJvYzAckGQOWnf9z",
-        "name": "Hollaback Girl",
-        "popularity": 25,
-        "preview_url": null,
-        "track_number": 25,
-        "type": "track",
-        "uri": "spotify:track:0Kbo09EJvYzAckGQOWnf9z"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0sVXLjw132LwEoGsSlBbQm"
-              },
-              "href": "https://api.spotify.com/v1/artists/0sVXLjw132LwEoGsSlBbQm",
-              "id": "0sVXLjw132LwEoGsSlBbQm",
-              "name": "The Cheer Squad",
-              "type": "artist",
-              "uri": "spotify:artist:0sVXLjw132LwEoGsSlBbQm"
-            }
-          ],
-          "available_markets": [
-            "AD",
-            "AR",
-            "AT",
-            "AU",
-            "BE",
-            "BG",
-            "BO",
-            "BR",
-            "CA",
-            "CH",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DE",
-            "DK",
-            "DO",
-            "EC",
-            "EE",
-            "ES",
-            "FI",
-            "FR",
-            "GB",
-            "GR",
-            "GT",
-            "HK",
-            "HN",
-            "HU",
-            "ID",
-            "IE",
-            "IS",
-            "IT",
-            "JP",
-            "LI",
-            "LT",
-            "LU",
-            "LV",
-            "MC",
-            "MT",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "NZ",
-            "PA",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "PY",
-            "SE",
-            "SG",
-            "SK",
-            "SV",
-            "TH",
-            "TR",
-            "TW",
-            "US",
-            "UY"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4e5yCpTliuY5ANi6wjYh0H"
-          },
-          "href": "https://api.spotify.com/v1/albums/4e5yCpTliuY5ANi6wjYh0H",
-          "id": "4e5yCpTliuY5ANi6wjYh0H",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/1502442b680aba0c20e9cd1d94cdeaae2f848241",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/b87d790a0b17bdba10756b476cd51d066c108b1f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/1570ed20a520715c5d05dd0c062b01d6266d35d7",
-              "width": 64
-            }
-          ],
-          "name": "Cheering Mix 2012 - Songs for Cheerleading",
-          "type": "album",
-          "uri": "spotify:album:4e5yCpTliuY5ANi6wjYh0H"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0sVXLjw132LwEoGsSlBbQm"
-            },
-            "href": "https://api.spotify.com/v1/artists/0sVXLjw132LwEoGsSlBbQm",
-            "id": "0sVXLjw132LwEoGsSlBbQm",
-            "name": "The Cheer Squad",
-            "type": "artist",
-            "uri": "spotify:artist:0sVXLjw132LwEoGsSlBbQm"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "EC",
-          "EE",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IS",
-          "IT",
-          "JP",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MT",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "PY",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TR",
-          "TW",
-          "US",
-          "UY"
-        ],
-        "disc_number": 1,
-        "duration_ms": 200000,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "CAM460435961"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6LdeRZP1UPgdYhY2Bx1TZ7"
-        },
-        "href": "https://api.spotify.com/v1/tracks/6LdeRZP1UPgdYhY2Bx1TZ7",
-        "id": "6LdeRZP1UPgdYhY2Bx1TZ7",
-        "name": "Hollaback Girl",
-        "popularity": 26,
-        "preview_url": "https://p.scdn.co/mp3-preview/ae11429aa65b96083323717a2f524b9d41e85052?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 5,
-        "type": "track",
-        "uri": "spotify:track:6LdeRZP1UPgdYhY2Bx1TZ7"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-              },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
-              "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-            }
-          ],
-          "available_markets": [
-            "AD",
-            "AR",
-            "AT",
-            "AU",
-            "BE",
-            "BG",
-            "BO",
-            "BR",
-            "CA",
-            "CH",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DE",
-            "DK",
-            "DO",
-            "EC",
-            "EE",
-            "ES",
-            "FI",
-            "FR",
-            "GB",
-            "GR",
-            "GT",
-            "HK",
-            "HN",
-            "HU",
-            "ID",
-            "IE",
-            "IS",
-            "IT",
-            "JP",
-            "LI",
-            "LT",
-            "LU",
-            "LV",
-            "MC",
-            "MT",
-            "MX",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "NZ",
-            "PA",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "PY",
-            "SE",
-            "SG",
-            "SK",
-            "SV",
-            "TH",
-            "TR",
-            "TW",
-            "US",
-            "UY"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2zC7kGs118AVZqLFnXa4gP"
-          },
-          "href": "https://api.spotify.com/v1/albums/2zC7kGs118AVZqLFnXa4gP",
-          "id": "2zC7kGs118AVZqLFnXa4gP",
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
           "images": [
             {
               "height": 600,
-              "url": "https://i.scdn.co/image/517c2192461b84a558aef70de6572fed8b6c4583",
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
               "width": 600
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/dede775066ad6f2c94cb914a057fecabc636737b",
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/2ccdcca202be138aa2eedbb3a4711be0416f0a92",
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
               "width": 64
             }
           ],
-          "name": "2000's Hits",
+          "name": "The Sign (US Album) [Remastered]",
           "type": "album",
-          "uri": "spotify:album:2zC7kGs118AVZqLFnXa4gP"
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5JeSduIEh2Qno03k3iM6EI"
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
             },
-            "href": "https://api.spotify.com/v1/artists/5JeSduIEh2Qno03k3iM6EI",
-            "id": "5JeSduIEh2Qno03k3iM6EI",
-            "name": "Carol Candy",
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
             "type": "artist",
-            "uri": "spotify:artist:5JeSduIEh2Qno03k3iM6EI"
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
           }
         ],
         "available_markets": [
@@ -827,22 +182,22 @@
           "UY"
         ],
         "disc_number": 1,
-        "duration_ms": 200000,
+        "duration_ms": 191240,
         "explicit": false,
         "external_ids": {
-          "isrc": "CAM460435961"
+          "isrc": "SEVJH0803404"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/19fH8m5kqGH53tfQ1LBerR"
+          "spotify": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
         },
-        "href": "https://api.spotify.com/v1/tracks/19fH8m5kqGH53tfQ1LBerR",
-        "id": "19fH8m5kqGH53tfQ1LBerR",
-        "name": "Hollaback Girl",
-        "popularity": 23,
-        "preview_url": "https://p.scdn.co/mp3-preview/ae11429aa65b96083323717a2f524b9d41e85052?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 28,
+        "href": "https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE",
+        "id": "0hrBpAOgrt8RXigk83LLNE",
+        "name": "The Sign",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 4,
         "type": "track",
-        "uri": "spotify:track:19fH8m5kqGH53tfQ1LBerR"
+        "uri": "spotify:track:0hrBpAOgrt8RXigk83LLNE"
       },
       {
         "album": {
@@ -850,80 +205,1575 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
               },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
               "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
             }
           ],
           "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
             "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
             "MX",
-            "US"
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1UdaChmrXTl4pzDe14XvQC"
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
           },
-          "href": "https://api.spotify.com/v1/albums/1UdaChmrXTl4pzDe14XvQC",
-          "id": "1UdaChmrXTl4pzDe14XvQC",
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
           "images": [
             {
-              "height": 640,
-              "url": "https://i.scdn.co/image/600fc93eb6b8ac93d3e5a1082296f45be60df8f6",
-              "width": 640
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/92e560af5ab6f48f867b0aba99666cf78d5e12fb",
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/f1289efa40ea853d01b80a7b1dc00043ce42a0b1",
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
               "width": 64
             }
           ],
-          "name": "Hear Us Roar",
+          "name": "The Sign (US Album) [Remastered]",
           "type": "album",
-          "uri": "spotify:album:1UdaChmrXTl4pzDe14XvQC"
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
             },
-            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-            "id": "4yiQZ8tQPux8cPriYMWUFP",
-            "name": "Gwen Stefani",
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
             "type": "artist",
-            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
           }
         ],
         "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
           "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
           "MX",
-          "US"
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
         ],
         "disc_number": 1,
-        "duration_ms": 200537,
-        "explicit": true,
+        "duration_ms": 211213,
+        "explicit": false,
         "external_ids": {
-          "isrc": "USIR10400847"
+          "isrc": "SEVJH0803401"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4vwOTR7c6jMSychokCRBmi"
+          "spotify": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
         },
-        "href": "https://api.spotify.com/v1/tracks/4vwOTR7c6jMSychokCRBmi",
-        "id": "4vwOTR7c6jMSychokCRBmi",
-        "name": "Hollaback Girl",
-        "popularity": 21,
-        "preview_url": null,
+        "href": "https://api.spotify.com/v1/tracks/6kWJvPfC4DgUpRsXKNa9z9",
+        "id": "6kWJvPfC4DgUpRsXKNa9z9",
+        "name": "All That She Wants",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6kWJvPfC4DgUpRsXKNa9z9"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0nQFgMfnmWrcWDOQqIgJL7"
+          },
+          "href": "https://api.spotify.com/v1/albums/0nQFgMfnmWrcWDOQqIgJL7",
+          "id": "0nQFgMfnmWrcWDOQqIgJL7",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/704ab1797786e1c0c5e94efc4e8c645cc93dfb4f",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/aff11e12be481b5dcb104db46e595515e9c2b118",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/374db7d3cb2307ededd91020c58d675dadc4ce36",
+              "width": 64
+            }
+          ],
+          "name": "Greatest Hits",
+          "type": "album",
+          "uri": "spotify:album:0nQFgMfnmWrcWDOQqIgJL7"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 189786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803404"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DYVWvPh3kGwPasp7yjahc",
+        "id": "3DYVWvPh3kGwPasp7yjahc",
+        "name": "The Sign",
+        "popularity": 61,
+        "preview_url": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3DYVWvPh3kGwPasp7yjahc"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230186,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803402"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4SYMibQ93bfzOk6uzkF0dO",
+        "id": "4SYMibQ93bfzOk6uzkF0dO",
+        "name": "Don't Turn Around",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4SYMibQ93bfzOk6uzkF0dO"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 223226,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803405"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ICwDM1fzgqv7HNFUIjPyx",
+        "id": "5ICwDM1fzgqv7HNFUIjPyx",
+        "name": "Living in Danger",
+        "popularity": 47,
+        "preview_url": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5ICwDM1fzgqv7HNFUIjPyx"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 234106,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803807"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08bZOAr9YLpCLL0Jmtsgbi",
+        "id": "08bZOAr9YLpCLL0Jmtsgbi",
+        "name": "Wheel of Fortune",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:08bZOAr9YLpCLL0Jmtsgbi"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 236840,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803812"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6sUq6M1iKXQLZHZqefgtEq",
+        "id": "6sUq6M1iKXQLZHZqefgtEq",
+        "name": "Young and Proud",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6sUq6M1iKXQLZHZqefgtEq"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 255413,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803407"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fb22pjF62S9r1s1pian5K",
+        "id": "7fb22pjF62S9r1s1pian5K",
+        "name": "Happy Nation",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7fb22pjF62S9r1s1pian5K"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 221000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803808"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur"
+        },
+        "href": "https://api.spotify.com/v1/tracks/56r15mfaTXZoGEYBe2FHur",
+        "id": "56r15mfaTXZoGEYBe2FHur",
+        "name": "Dancer in a Daydream",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=c747cb6d066d4198980607a2c6992938",
         "track_number": 6,
         "type": "track",
-        "uri": "spotify:track:4vwOTR7c6jMSychokCRBmi"
+        "uri": "spotify:track:56r15mfaTXZoGEYBe2FHur"
       },
       {
         "album": {
@@ -931,286 +1781,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
               },
-              "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-              "id": "4yiQZ8tQPux8cPriYMWUFP",
-              "name": "Gwen Stefani",
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
               "type": "artist",
-              "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-          },
-          "href": "https://api.spotify.com/v1/albums/3Lqn8M0QxPLIPRJ4nUKTGN",
-          "id": "3Lqn8M0QxPLIPRJ4nUKTGN",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/f7caf28e51936306738dd89c54589949dddc181e",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/2e048a2416ac522ed2e77ce78c68a345290eb68a",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/8142ed2217dbbc0331560192630eae60dd29bac1",
-              "width": 64
-            }
-          ],
-          "name": "Love Angel Music Baby (Deluxe Version)",
-          "type": "album",
-          "uri": "spotify:album:3Lqn8M0QxPLIPRJ4nUKTGN"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-            },
-            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-            "id": "4yiQZ8tQPux8cPriYMWUFP",
-            "name": "Gwen Stefani",
-            "type": "artist",
-            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-            },
-            "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
-            "id": "5fMUXHkw8R8eOP2RNVYEZX",
-            "name": "Diplo",
-            "type": "artist",
-            "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "MX",
-          "US"
-        ],
-        "disc_number": 2,
-        "duration_ms": 162546,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USIR10500752"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/15EVWwhua5i9upCmjelqP3"
-        },
-        "href": "https://api.spotify.com/v1/tracks/15EVWwhua5i9upCmjelqP3",
-        "id": "15EVWwhua5i9upCmjelqP3",
-        "name": "Hollaback Girl - Hollatronix Remix by Diplo",
-        "popularity": 24,
-        "preview_url": null,
-        "track_number": 5,
-        "type": "track",
-        "uri": "spotify:track:15EVWwhua5i9upCmjelqP3"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-              },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
-              "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/23dOSX3k9eTyyQIm6KHX52"
-          },
-          "href": "https://api.spotify.com/v1/albums/23dOSX3k9eTyyQIm6KHX52",
-          "id": "23dOSX3k9eTyyQIm6KHX52",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/01a7629e1313c34a0776132f24856dbdb2a7704b",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/221d3910b4c61418b10e1fc6798adb95270bf02f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/c61e08ad74644132941c566139bf498477d28d6a",
-              "width": 64
-            }
-          ],
-          "name": "Pop Nostalgia",
-          "type": "album",
-          "uri": "spotify:album:23dOSX3k9eTyyQIm6KHX52"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-            },
-            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-            "id": "4yiQZ8tQPux8cPriYMWUFP",
-            "name": "Gwen Stefani",
-            "type": "artist",
-            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "MX",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 200906,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USIR10400847"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4ETCQLJNBbJvqTbkAKvd1T"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4ETCQLJNBbJvqTbkAKvd1T",
-        "id": "4ETCQLJNBbJvqTbkAKvd1T",
-        "name": "Hollaback Girl",
-        "popularity": 22,
-        "preview_url": null,
-        "track_number": 1,
-        "type": "track",
-        "uri": "spotify:track:4ETCQLJNBbJvqTbkAKvd1T"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-              },
-              "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-              "id": "4yiQZ8tQPux8cPriYMWUFP",
-              "name": "Gwen Stefani",
-              "type": "artist",
-              "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-          },
-          "href": "https://api.spotify.com/v1/albums/3Lqn8M0QxPLIPRJ4nUKTGN",
-          "id": "3Lqn8M0QxPLIPRJ4nUKTGN",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/f7caf28e51936306738dd89c54589949dddc181e",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/2e048a2416ac522ed2e77ce78c68a345290eb68a",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/8142ed2217dbbc0331560192630eae60dd29bac1",
-              "width": 64
-            }
-          ],
-          "name": "Love Angel Music Baby (Deluxe Version)",
-          "type": "album",
-          "uri": "spotify:album:3Lqn8M0QxPLIPRJ4nUKTGN"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-            },
-            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
-            "id": "4yiQZ8tQPux8cPriYMWUFP",
-            "name": "Gwen Stefani",
-            "type": "artist",
-            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GBYi98icFDBm4DvUGU7yU"
-            },
-            "href": "https://api.spotify.com/v1/artists/1GBYi98icFDBm4DvUGU7yU",
-            "id": "1GBYi98icFDBm4DvUGU7yU",
-            "name": "Elan",
-            "type": "artist",
-            "uri": "spotify:artist:1GBYi98icFDBm4DvUGU7yU"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1uQyPN98OayGGujOgM5k2b"
-            },
-            "href": "https://api.spotify.com/v1/artists/1uQyPN98OayGGujOgM5k2b",
-            "id": "1uQyPN98OayGGujOgM5k2b",
-            "name": "Tony Kanal",
-            "type": "artist",
-            "uri": "spotify:artist:1uQyPN98OayGGujOgM5k2b"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "MX",
-          "US"
-        ],
-        "disc_number": 2,
-        "duration_ms": 411693,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USIR10500880"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5la1Gj10lCYToqpA6bb6dU"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5la1Gj10lCYToqpA6bb6dU",
-        "id": "5la1Gj10lCYToqpA6bb6dU",
-        "name": "Hollaback Girl - Dancehollaback Remix by Tony Kanal",
-        "popularity": 22,
-        "preview_url": null,
-        "track_number": 7,
-        "type": "track",
-        "uri": "spotify:track:5la1Gj10lCYToqpA6bb6dU"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/15vYEF4FB0Urzzt1Fdv4xC"
-              },
-              "href": "https://api.spotify.com/v1/artists/15vYEF4FB0Urzzt1Fdv4xC",
-              "id": "15vYEF4FB0Urzzt1Fdv4xC",
-              "name": "Kids Hit Masters",
-              "type": "artist",
-              "uri": "spotify:artist:15vYEF4FB0Urzzt1Fdv4xC"
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
             }
           ],
           "available_markets": [
@@ -1277,946 +1854,41 @@
             "UY"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/64WmCTDYlflVG7D1HOpSWx"
+            "spotify": "https://open.spotify.com/album/37UgOnkBN4ZfY1nBoSCL9L"
           },
-          "href": "https://api.spotify.com/v1/albums/64WmCTDYlflVG7D1HOpSWx",
-          "id": "64WmCTDYlflVG7D1HOpSWx",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/d2cee74b5042e9cb92b3790d76c0498c76a30a1d",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/51fc0612dd85dd065bfbb7bd2aaeb33a9c230cd9",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/4b3c11468796e7bf19bef7045489f849b94e8f7d",
-              "width": 64
-            }
-          ],
-          "name": "Kids Rap'n The Hits Vol. 3",
-          "type": "album",
-          "uri": "spotify:album:64WmCTDYlflVG7D1HOpSWx"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/15vYEF4FB0Urzzt1Fdv4xC"
-            },
-            "href": "https://api.spotify.com/v1/artists/15vYEF4FB0Urzzt1Fdv4xC",
-            "id": "15vYEF4FB0Urzzt1Fdv4xC",
-            "name": "Kids Hit Masters",
-            "type": "artist",
-            "uri": "spotify:artist:15vYEF4FB0Urzzt1Fdv4xC"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "EC",
-          "EE",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IS",
-          "IT",
-          "JP",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "PY",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TR",
-          "TW",
-          "US",
-          "UY"
-        ],
-        "disc_number": 1,
-        "duration_ms": 197173,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USA2P0770460"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7zRip1Ey8ilxIT5aK0qSxg"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7zRip1Ey8ilxIT5aK0qSxg",
-        "id": "7zRip1Ey8ilxIT5aK0qSxg",
-        "name": "Hollaback Girl",
-        "popularity": 21,
-        "preview_url": "https://p.scdn.co/mp3-preview/2197ede59c063c757487020106b86bdea44f2df0?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 3,
-        "type": "track",
-        "uri": "spotify:track:7zRip1Ey8ilxIT5aK0qSxg"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6vLHU5afuFX3J9U3U4NX6S"
-              },
-              "href": "https://api.spotify.com/v1/artists/6vLHU5afuFX3J9U3U4NX6S",
-              "id": "6vLHU5afuFX3J9U3U4NX6S",
-              "name": "Girl Authority",
-              "type": "artist",
-              "uri": "spotify:artist:6vLHU5afuFX3J9U3U4NX6S"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0JaSc6asXC9hp6NSHiNKqH"
-          },
-          "href": "https://api.spotify.com/v1/albums/0JaSc6asXC9hp6NSHiNKqH",
-          "id": "0JaSc6asXC9hp6NSHiNKqH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ea21d83da3871f53f58d4652af986ad6c935dec2",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/e523a9093e470dd64d35d88bc0df26c0228bf241",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/bef3a6d1f9cbe591f1680f74d2b8f280a177e402",
-              "width": 64
-            }
-          ],
-          "name": "Girl Authority",
-          "type": "album",
-          "uri": "spotify:album:0JaSc6asXC9hp6NSHiNKqH"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6vLHU5afuFX3J9U3U4NX6S"
-            },
-            "href": "https://api.spotify.com/v1/artists/6vLHU5afuFX3J9U3U4NX6S",
-            "id": "6vLHU5afuFX3J9U3U4NX6S",
-            "name": "Girl Authority",
-            "type": "artist",
-            "uri": "spotify:artist:6vLHU5afuFX3J9U3U4NX6S"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 201320,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USZO10608801"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/54XzshgqgtY2RJHSHbEufP"
-        },
-        "href": "https://api.spotify.com/v1/tracks/54XzshgqgtY2RJHSHbEufP",
-        "id": "54XzshgqgtY2RJHSHbEufP",
-        "name": "Hollaback Girl",
-        "popularity": 5,
-        "preview_url": null,
-        "track_number": 1,
-        "type": "track",
-        "uri": "spotify:track:54XzshgqgtY2RJHSHbEufP"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2EPT6qIDLeK4VGoLx0eSMF"
-              },
-              "href": "https://api.spotify.com/v1/artists/2EPT6qIDLeK4VGoLx0eSMF",
-              "id": "2EPT6qIDLeK4VGoLx0eSMF",
-              "name": "Can You Flow?",
-              "type": "artist",
-              "uri": "spotify:artist:2EPT6qIDLeK4VGoLx0eSMF"
-            }
-          ],
-          "available_markets": [
-            "AD",
-            "AR",
-            "AT",
-            "AU",
-            "BE",
-            "BG",
-            "BO",
-            "BR",
-            "CA",
-            "CH",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DE",
-            "DK",
-            "DO",
-            "EC",
-            "EE",
-            "ES",
-            "FI",
-            "FR",
-            "GB",
-            "GR",
-            "GT",
-            "HK",
-            "HN",
-            "HU",
-            "ID",
-            "IE",
-            "IS",
-            "IT",
-            "LI",
-            "LT",
-            "LU",
-            "LV",
-            "MC",
-            "MT",
-            "MX",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "NZ",
-            "PA",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "PY",
-            "SE",
-            "SG",
-            "SK",
-            "SV",
-            "TH",
-            "TR",
-            "TW",
-            "US",
-            "UY"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/15M2a5iOIjVZPlBAGJzG0b"
-          },
-          "href": "https://api.spotify.com/v1/albums/15M2a5iOIjVZPlBAGJzG0b",
-          "id": "15M2a5iOIjVZPlBAGJzG0b",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/3910a2bbb187c433c610e4d7382fb657cae3004f",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/d4e36fdd396630ffcfd39a157d4836a14f4c1b1f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/b11d1cfa39ce5d88aa23530fa026d572dbc942c3",
-              "width": 64
-            }
-          ],
-          "name": "Can You Flow? Presents: Instrumental Renditions of Pharrell & the Neptunes",
-          "type": "album",
-          "uri": "spotify:album:15M2a5iOIjVZPlBAGJzG0b"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2EPT6qIDLeK4VGoLx0eSMF"
-            },
-            "href": "https://api.spotify.com/v1/artists/2EPT6qIDLeK4VGoLx0eSMF",
-            "id": "2EPT6qIDLeK4VGoLx0eSMF",
-            "name": "Can You Flow?",
-            "type": "artist",
-            "uri": "spotify:artist:2EPT6qIDLeK4VGoLx0eSMF"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "EC",
-          "EE",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IS",
-          "IT",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "PY",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TR",
-          "TW",
-          "US",
-          "UY"
-        ],
-        "disc_number": 1,
-        "duration_ms": 199640,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USEWC0713594"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0e1M2CoYLtruucZ1vKKMpu"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0e1M2CoYLtruucZ1vKKMpu",
-        "id": "0e1M2CoYLtruucZ1vKKMpu",
-        "name": "Hollaback Girl",
-        "popularity": 11,
-        "preview_url": "https://p.scdn.co/mp3-preview/9c61d76e81e7f5105188a70d74079debc52ea27f?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 7,
-        "type": "track",
-        "uri": "spotify:track:0e1M2CoYLtruucZ1vKKMpu"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-              },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
-              "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-            }
-          ],
-          "available_markets": [
-            "AD",
-            "AR",
-            "AT",
-            "AU",
-            "BE",
-            "BG",
-            "BO",
-            "BR",
-            "CA",
-            "CH",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DE",
-            "DK",
-            "DO",
-            "EC",
-            "EE",
-            "ES",
-            "FI",
-            "FR",
-            "GB",
-            "GR",
-            "GT",
-            "HK",
-            "HN",
-            "HU",
-            "ID",
-            "IE",
-            "IS",
-            "IT",
-            "JP",
-            "LI",
-            "LT",
-            "LU",
-            "LV",
-            "MC",
-            "MT",
-            "MX",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "NZ",
-            "PA",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "PY",
-            "SE",
-            "SG",
-            "SK",
-            "SV",
-            "TH",
-            "TR",
-            "TW",
-            "US",
-            "UY"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/7oik4dQ4rGmT3IWSfCDyeV"
-          },
-          "href": "https://api.spotify.com/v1/albums/7oik4dQ4rGmT3IWSfCDyeV",
-          "id": "7oik4dQ4rGmT3IWSfCDyeV",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/f1d8a10ea049a644afa08cb8a3b6b408d548ad26",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/fa27c7b77afa9fdc099e559eae54e3d93bf71bd0",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/79d59d8d0e3e7a5d6fcb17f03e865837ffa32b15",
-              "width": 64
-            }
-          ],
-          "name": "Baby Drive (Soundtrack Inspired By The Movie)",
-          "type": "album",
-          "uri": "spotify:album:7oik4dQ4rGmT3IWSfCDyeV"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5JeSduIEh2Qno03k3iM6EI"
-            },
-            "href": "https://api.spotify.com/v1/artists/5JeSduIEh2Qno03k3iM6EI",
-            "id": "5JeSduIEh2Qno03k3iM6EI",
-            "name": "Carol Candy",
-            "type": "artist",
-            "uri": "spotify:artist:5JeSduIEh2Qno03k3iM6EI"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "EC",
-          "EE",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IS",
-          "IT",
-          "JP",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "PY",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TR",
-          "TW",
-          "US",
-          "UY"
-        ],
-        "disc_number": 1,
-        "duration_ms": 200000,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "CAM460435961"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1PimTonxF1CF0ZCxK0jzSr"
-        },
-        "href": "https://api.spotify.com/v1/tracks/1PimTonxF1CF0ZCxK0jzSr",
-        "id": "1PimTonxF1CF0ZCxK0jzSr",
-        "name": "Hollaback Girl (From \"Baby Driver\")",
-        "popularity": 21,
-        "preview_url": "https://p.scdn.co/mp3-preview/d04c3dcdeab8cdfc1a0f7fc332fa14855f8cf272?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 17,
-        "type": "track",
-        "uri": "spotify:track:1PimTonxF1CF0ZCxK0jzSr"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-              },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
-              "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3ZGSaCqCDpClTcHEC8UzNa"
-          },
-          "href": "https://api.spotify.com/v1/albums/3ZGSaCqCDpClTcHEC8UzNa",
-          "id": "3ZGSaCqCDpClTcHEC8UzNa",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/72e09bef948a0c3784e3e65fa836d6431ff83733",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/002f73900f1579d09d482444407008b1ad1bcb7e",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/83f41e574667e823454703f7000b4102952be4e0",
-              "width": 64
-            }
-          ],
-          "name": "Women's March Power Playlist",
-          "type": "album",
-          "uri": "spotify:album:3ZGSaCqCDpClTcHEC8UzNa"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5JeSduIEh2Qno03k3iM6EI"
-            },
-            "href": "https://api.spotify.com/v1/artists/5JeSduIEh2Qno03k3iM6EI",
-            "id": "5JeSduIEh2Qno03k3iM6EI",
-            "name": "Carol Candy",
-            "type": "artist",
-            "uri": "spotify:artist:5JeSduIEh2Qno03k3iM6EI"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 200000,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "CAM460435961"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6w4AbKlaVxu3JfJnkAXKYK"
-        },
-        "href": "https://api.spotify.com/v1/tracks/6w4AbKlaVxu3JfJnkAXKYK",
-        "id": "6w4AbKlaVxu3JfJnkAXKYK",
-        "name": "Hollaback Girl",
-        "popularity": 4,
-        "preview_url": "https://p.scdn.co/mp3-preview/d04c3dcdeab8cdfc1a0f7fc332fa14855f8cf272?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 15,
-        "type": "track",
-        "uri": "spotify:track:6w4AbKlaVxu3JfJnkAXKYK"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0R29IKlKkSEwROMnowTfuO"
-              },
-              "href": "https://api.spotify.com/v1/artists/0R29IKlKkSEwROMnowTfuO",
-              "id": "0R29IKlKkSEwROMnowTfuO",
-              "name": "The Pop Posse",
-              "type": "artist",
-              "uri": "spotify:artist:0R29IKlKkSEwROMnowTfuO"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1qv6LSteZJ7uJAhw1dMQIT"
-          },
-          "href": "https://api.spotify.com/v1/albums/1qv6LSteZJ7uJAhw1dMQIT",
-          "id": "1qv6LSteZJ7uJAhw1dMQIT",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/67a763bd1b1c6f7e4cfb883e2925368744bcc5ae",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/22e3e0257e8b4c3e723bf3f953141caca33aa4b6",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/c57d116e9c6877da30f809da2cf57257920bb62f",
-              "width": 64
-            }
-          ],
-          "name": "Girl Power Playlist",
-          "type": "album",
-          "uri": "spotify:album:1qv6LSteZJ7uJAhw1dMQIT"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0R29IKlKkSEwROMnowTfuO"
-            },
-            "href": "https://api.spotify.com/v1/artists/0R29IKlKkSEwROMnowTfuO",
-            "id": "0R29IKlKkSEwROMnowTfuO",
-            "name": "The Pop Posse",
-            "type": "artist",
-            "uri": "spotify:artist:0R29IKlKkSEwROMnowTfuO"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 197855,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "AUDD31601426"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1e7eqFQJ8hdbmyUUYIyYxg"
-        },
-        "href": "https://api.spotify.com/v1/tracks/1e7eqFQJ8hdbmyUUYIyYxg",
-        "id": "1e7eqFQJ8hdbmyUUYIyYxg",
-        "name": "Hollaback Girl",
-        "popularity": 0,
-        "preview_url": "https://p.scdn.co/mp3-preview/b29f3f863baa826df8955876290ee146d102d2fa?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 18,
-        "type": "track",
-        "uri": "spotify:track:1e7eqFQJ8hdbmyUUYIyYxg"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0R29IKlKkSEwROMnowTfuO"
-              },
-              "href": "https://api.spotify.com/v1/artists/0R29IKlKkSEwROMnowTfuO",
-              "id": "0R29IKlKkSEwROMnowTfuO",
-              "name": "The Pop Posse",
-              "type": "artist",
-              "uri": "spotify:artist:0R29IKlKkSEwROMnowTfuO"
-            }
-          ],
-          "available_markets": [
-            "CA",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1Ftid5dJIE3xMEjeT9gBRa"
-          },
-          "href": "https://api.spotify.com/v1/albums/1Ftid5dJIE3xMEjeT9gBRa",
-          "id": "1Ftid5dJIE3xMEjeT9gBRa",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/67a763bd1b1c6f7e4cfb883e2925368744bcc5ae",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/22e3e0257e8b4c3e723bf3f953141caca33aa4b6",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/c57d116e9c6877da30f809da2cf57257920bb62f",
-              "width": 64
-            }
-          ],
-          "name": "Girl Power Playlist",
-          "type": "album",
-          "uri": "spotify:album:1Ftid5dJIE3xMEjeT9gBRa"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0R29IKlKkSEwROMnowTfuO"
-            },
-            "href": "https://api.spotify.com/v1/artists/0R29IKlKkSEwROMnowTfuO",
-            "id": "0R29IKlKkSEwROMnowTfuO",
-            "name": "The Pop Posse",
-            "type": "artist",
-            "uri": "spotify:artist:0R29IKlKkSEwROMnowTfuO"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 197855,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "AUDD31601426"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1Un7OgNSbvlFIhUSBo1GKi"
-        },
-        "href": "https://api.spotify.com/v1/tracks/1Un7OgNSbvlFIhUSBo1GKi",
-        "id": "1Un7OgNSbvlFIhUSBo1GKi",
-        "name": "Hollaback Girl",
-        "popularity": 1,
-        "preview_url": "https://p.scdn.co/mp3-preview/75505fc252b4f81daea8d6f73e8eb9ad16f8ded3?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 18,
-        "type": "track",
-        "uri": "spotify:track:1Un7OgNSbvlFIhUSBo1GKi"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3n6DxOAaKCu5aR076SzKcp"
-              },
-              "href": "https://api.spotify.com/v1/artists/3n6DxOAaKCu5aR076SzKcp",
-              "id": "3n6DxOAaKCu5aR076SzKcp",
-              "name": "DJ Crazy J Rodriguez",
-              "type": "artist",
-              "uri": "spotify:artist:3n6DxOAaKCu5aR076SzKcp"
-            }
-          ],
-          "available_markets": [
-            "AD",
-            "AR",
-            "AT",
-            "AU",
-            "BE",
-            "BG",
-            "BO",
-            "BR",
-            "CA",
-            "CH",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DE",
-            "DK",
-            "DO",
-            "EC",
-            "EE",
-            "ES",
-            "FI",
-            "FR",
-            "GB",
-            "GR",
-            "GT",
-            "HK",
-            "HN",
-            "HU",
-            "ID",
-            "IE",
-            "IS",
-            "IT",
-            "JP",
-            "LI",
-            "LT",
-            "LU",
-            "LV",
-            "MC",
-            "MT",
-            "MX",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "NZ",
-            "PA",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "PY",
-            "SE",
-            "SG",
-            "SK",
-            "SV",
-            "TH",
-            "TR",
-            "TW",
-            "US",
-            "UY"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3RBJKEZ0WvqWb2QyFIwHU3"
-          },
-          "href": "https://api.spotify.com/v1/albums/3RBJKEZ0WvqWb2QyFIwHU3",
-          "id": "3RBJKEZ0WvqWb2QyFIwHU3",
+          "href": "https://api.spotify.com/v1/albums/37UgOnkBN4ZfY1nBoSCL9L",
+          "id": "37UgOnkBN4ZfY1nBoSCL9L",
           "images": [
             {
               "height": 600,
-              "url": "https://i.scdn.co/image/90e9e9caa16ae44e7617144700ece432ad83050b",
+              "url": "https://i.scdn.co/image/443a0849c367e919e9b84e8aa9f77bc8f996e72a",
               "width": 600
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab18d7db8b17e92c2924446c148c53610a14b8af",
+              "url": "https://i.scdn.co/image/2225028a98337d293f7eabe6171ca3eb2f988a84",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/afaa7292c93347cf79e8a6a6cb841f83357aec1d",
+              "url": "https://i.scdn.co/image/9994dedda85838567df43350a22d4a9c599fa7ac",
               "width": 64
             }
           ],
-          "name": "DJ Crazy J Rodriguez",
+          "name": "Happy Nation (U.S. Version) [Remastered]",
           "type": "album",
-          "uri": "spotify:album:3RBJKEZ0WvqWb2QyFIwHU3"
+          "uri": "spotify:album:37UgOnkBN4ZfY1nBoSCL9L"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3n6DxOAaKCu5aR076SzKcp"
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
             },
-            "href": "https://api.spotify.com/v1/artists/3n6DxOAaKCu5aR076SzKcp",
-            "id": "3n6DxOAaKCu5aR076SzKcp",
-            "name": "DJ Crazy J Rodriguez",
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
             "type": "artist",
-            "uri": "spotify:artist:3n6DxOAaKCu5aR076SzKcp"
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
           }
         ],
         "available_markets": [
@@ -2283,219 +1955,22 @@
           "UY"
         ],
         "disc_number": 1,
-        "duration_ms": 213211,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USJ3V1076248"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1gF3wejnwyXJEi7420iqjW"
-        },
-        "href": "https://api.spotify.com/v1/tracks/1gF3wejnwyXJEi7420iqjW",
-        "id": "1gF3wejnwyXJEi7420iqjW",
-        "name": "Hollaback Thriller Girl",
-        "popularity": 9,
-        "preview_url": "https://p.scdn.co/mp3-preview/3ac762f03a33684f00c2a948450c98611451b652?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 13,
-        "type": "track",
-        "uri": "spotify:track:1gF3wejnwyXJEi7420iqjW"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6zV4a5O92yiUswii7cgLhJ"
-              },
-              "href": "https://api.spotify.com/v1/artists/6zV4a5O92yiUswii7cgLhJ",
-              "id": "6zV4a5O92yiUswii7cgLhJ",
-              "name": "Adam and Andrew",
-              "type": "artist",
-              "uri": "spotify:artist:6zV4a5O92yiUswii7cgLhJ"
-            }
-          ],
-          "available_markets": [
-            "AD",
-            "AR",
-            "AT",
-            "AU",
-            "BE",
-            "BG",
-            "BO",
-            "BR",
-            "CA",
-            "CH",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DE",
-            "DK",
-            "DO",
-            "EC",
-            "EE",
-            "ES",
-            "FI",
-            "FR",
-            "GB",
-            "GR",
-            "GT",
-            "HK",
-            "HN",
-            "HU",
-            "ID",
-            "IE",
-            "IS",
-            "IT",
-            "JP",
-            "LI",
-            "LT",
-            "LU",
-            "LV",
-            "MC",
-            "MT",
-            "MX",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "NZ",
-            "PA",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "PY",
-            "SE",
-            "SG",
-            "SK",
-            "SV",
-            "TH",
-            "TR",
-            "TW",
-            "US",
-            "UY"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4sHpOcEOALJGTijVf2dOPV"
-          },
-          "href": "https://api.spotify.com/v1/albums/4sHpOcEOALJGTijVf2dOPV",
-          "id": "4sHpOcEOALJGTijVf2dOPV",
-          "images": [
-            {
-              "height": 624,
-              "url": "https://i.scdn.co/image/4090801b50e6e9124f4467c2e5198ada382aa57e",
-              "width": 640
-            },
-            {
-              "height": 293,
-              "url": "https://i.scdn.co/image/e685fb5cbfc7e603bce2a78bea2e5746ef260027",
-              "width": 300
-            },
-            {
-              "height": 62,
-              "url": "https://i.scdn.co/image/a965d1daf8525797ade5e683542304734f8d63bc",
-              "width": 64
-            }
-          ],
-          "name": "Music Pimp$",
-          "type": "album",
-          "uri": "spotify:album:4sHpOcEOALJGTijVf2dOPV"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6zV4a5O92yiUswii7cgLhJ"
-            },
-            "href": "https://api.spotify.com/v1/artists/6zV4a5O92yiUswii7cgLhJ",
-            "id": "6zV4a5O92yiUswii7cgLhJ",
-            "name": "Adam and Andrew",
-            "type": "artist",
-            "uri": "spotify:artist:6zV4a5O92yiUswii7cgLhJ"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "EC",
-          "EE",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IS",
-          "IT",
-          "JP",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "PY",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TR",
-          "TW",
-          "US",
-          "UY"
-        ],
-        "disc_number": 1,
-        "duration_ms": 266826,
+        "duration_ms": 191240,
         "explicit": false,
         "external_ids": {
-          "isrc": "uscgh0637683"
+          "isrc": "SEVJH0803404"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6LlAj5tVmHwDua5LRjpEvR"
+          "spotify": "https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP"
         },
-        "href": "https://api.spotify.com/v1/tracks/6LlAj5tVmHwDua5LRjpEvR",
-        "id": "6LlAj5tVmHwDua5LRjpEvR",
-        "name": "Hollaback Girl (Cover)",
-        "popularity": 7,
-        "preview_url": "https://p.scdn.co/mp3-preview/31a50fc2054e10cb4409960153145bc8727eb1da?cid=c747cb6d066d4198980607a2c6992938",
-        "track_number": 8,
+        "href": "https://api.spotify.com/v1/tracks/3Gxku40T2RGPqtLYpFAngP",
+        "id": "3Gxku40T2RGPqtLYpFAngP",
+        "name": "The Sign",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 4,
         "type": "track",
-        "uri": "spotify:track:6LlAj5tVmHwDua5LRjpEvR"
+        "uri": "spotify:track:3Gxku40T2RGPqtLYpFAngP"
       },
       {
         "album": {
@@ -2503,13 +1978,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
               },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
               "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
             }
           ],
           "available_markets": [
@@ -2576,41 +2051,41 @@
             "UY"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1A5qGgzs50XiPvj5RoSDxK"
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
           },
-          "href": "https://api.spotify.com/v1/albums/1A5qGgzs50XiPvj5RoSDxK",
-          "id": "1A5qGgzs50XiPvj5RoSDxK",
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
           "images": [
             {
-              "height": 640,
-              "url": "https://i.scdn.co/image/e4d61789f77cf52eb95d223de8a356e4398de53a",
-              "width": 640
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/087fbeb1fd66731a0d65dc80bbef99bd3d75ac3e",
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/859f8c596425782aea597c23f64f202cb46bc7ee",
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
               "width": 64
             }
           ],
-          "name": "Girl's Pop",
+          "name": "The Sign (US Album) [Remastered]",
           "type": "album",
-          "uri": "spotify:album:1A5qGgzs50XiPvj5RoSDxK"
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
             },
-            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-            "id": "0LyfQWJT6nXafLPZqxe9Of",
-            "name": "Various Artists",
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
             "type": "artist",
-            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
           }
         ],
         "available_markets": [
@@ -2677,28 +2152,1801 @@
           "UY"
         ],
         "disc_number": 1,
-        "duration_ms": 200106,
+        "duration_ms": 200173,
         "explicit": false,
         "external_ids": {
-          "isrc": "US85C0603630"
+          "isrc": "SEVJH0803801"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6LJNwTxeP2cqiKsmmn7SWr"
+          "spotify": "https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e"
         },
-        "href": "https://api.spotify.com/v1/tracks/6LJNwTxeP2cqiKsmmn7SWr",
-        "id": "6LJNwTxeP2cqiKsmmn7SWr",
-        "name": "Hollaback Girl",
-        "popularity": 3,
-        "preview_url": "https://p.scdn.co/mp3-preview/11768cef23843c9e882f1d5cb4b6acb511eb733d?cid=c747cb6d066d4198980607a2c6992938",
+        "href": "https://api.spotify.com/v1/tracks/2F71FlxVyNcoHj3MrHJF5e",
+        "id": "2F71FlxVyNcoHj3MrHJF5e",
+        "name": "Voulez-Vous danser",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2F71FlxVyNcoHj3MrHJF5e"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 231560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803409"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/21ra9MgsyMTrxCvIPObFGL",
+        "id": "21ra9MgsyMTrxCvIPObFGL",
+        "name": "Waiting for Magic - Total Remix 7\" Version",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:21ra9MgsyMTrxCvIPObFGL"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 251146,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803809"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Ol8ieTGPnzi9kVvZ1f7IN",
+        "id": "2Ol8ieTGPnzi9kVvZ1f7IN",
+        "name": "My Mind - Mindless Mix",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:2Ol8ieTGPnzi9kVvZ1f7IN"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2h82v2JZuZ9VQPUrkkTFN1"
+          },
+          "href": "https://api.spotify.com/v1/albums/2h82v2JZuZ9VQPUrkkTFN1",
+          "id": "2h82v2JZuZ9VQPUrkkTFN1",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/7a82b1cf9adf65e8e19e55bf7ca6aa3c771f3330",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/984bf88f9ec75d11041f53eb540ab7299b9654fe",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ae92f5f6d5fde3b471b07131423dc0e8f6b8785e",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (The Remixes)",
+          "type": "album",
+          "uri": "spotify:album:2h82v2JZuZ9VQPUrkkTFN1"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 189786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803404"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JXzEzQCYrblna7SCaegAm",
+        "id": "3JXzEzQCYrblna7SCaegAm",
+        "name": "The Sign",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=c747cb6d066d4198980607a2c6992938",
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:6LJNwTxeP2cqiKsmmn7SWr"
+        "uri": "spotify:track:3JXzEzQCYrblna7SCaegAm"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 257120,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803813"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/372oGXavXzqZJp5hzXxZlu",
+        "id": "372oGXavXzqZJp5hzXxZlu",
+        "name": "All That She Wants - Banghra Version",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:372oGXavXzqZJp5hzXxZlu"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB",
+          "id": "5UwIyIyFzkM7wKeGtRJPgB",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/420f7961d01701f6d4fe8fcd6c99fde0d13e7da7",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/14a8250ab9767f68eb58a7bcc1b2864dada763bf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81d371b69683de3224b978eff7d57d2e9ddc9994",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (US Album) [Remastered]",
+          "type": "album",
+          "uri": "spotify:album:5UwIyIyFzkM7wKeGtRJPgB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 201691,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH1403501"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6IcW0DmqcuVESqTIbgkyH8",
+        "id": "6IcW0DmqcuVESqTIbgkyH8",
+        "name": "Mr Ace - Demo 1991 Bonus Track",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:6IcW0DmqcuVESqTIbgkyH8"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1SCXEqByy1GHjKYxq99AnF"
+          },
+          "href": "https://api.spotify.com/v1/albums/1SCXEqByy1GHjKYxq99AnF",
+          "id": "1SCXEqByy1GHjKYxq99AnF",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/e0bec528ae6a8f46195ff348cac22b0d1038a338",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/528295fc7ca58b9c30fc58093c7c4bc3d90e9b3d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4a0cb61a8b448c93938b05f2f85c1ab68eacc9b0",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (The Remixes)",
+          "type": "album",
+          "uri": "spotify:album:1SCXEqByy1GHjKYxq99AnF"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 284733,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH1201602"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1csXR5Vn2SgOi7cw0lxJv8",
+        "id": "1csXR5Vn2SgOi7cw0lxJv8",
+        "name": "The Sign - Long Version",
+        "popularity": 20,
+        "preview_url": "https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1csXR5Vn2SgOi7cw0lxJv8"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1SCXEqByy1GHjKYxq99AnF"
+          },
+          "href": "https://api.spotify.com/v1/albums/1SCXEqByy1GHjKYxq99AnF",
+          "id": "1SCXEqByy1GHjKYxq99AnF",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/e0bec528ae6a8f46195ff348cac22b0d1038a338",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/528295fc7ca58b9c30fc58093c7c4bc3d90e9b3d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4a0cb61a8b448c93938b05f2f85c1ab68eacc9b0",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (The Remixes)",
+          "type": "album",
+          "uri": "spotify:album:1SCXEqByy1GHjKYxq99AnF"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 189786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0803404"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ZkiqOy0WpIXRfj1WP9fyg",
+        "id": "2ZkiqOy0WpIXRfj1WP9fyg",
+        "name": "The Sign",
+        "popularity": 14,
+        "preview_url": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ZkiqOy0WpIXRfj1WP9fyg"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1SCXEqByy1GHjKYxq99AnF"
+          },
+          "href": "https://api.spotify.com/v1/albums/1SCXEqByy1GHjKYxq99AnF",
+          "id": "1SCXEqByy1GHjKYxq99AnF",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/e0bec528ae6a8f46195ff348cac22b0d1038a338",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/528295fc7ca58b9c30fc58093c7c4bc3d90e9b3d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4a0cb61a8b448c93938b05f2f85c1ab68eacc9b0",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (The Remixes)",
+          "type": "album",
+          "uri": "spotify:album:1SCXEqByy1GHjKYxq99AnF"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 408533,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0805701"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10aaGlKzI8Fq3M8CMgw0EL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/10aaGlKzI8Fq3M8CMgw0EL",
+        "id": "10aaGlKzI8Fq3M8CMgw0EL",
+        "name": "The Sign - Ultimix",
+        "popularity": 9,
+        "preview_url": "https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:10aaGlKzI8Fq3M8CMgw0EL"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+              "id": "5ksRONqssB7BR161NTtJAm",
+              "name": "Ace of Base",
+              "type": "artist",
+              "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2h82v2JZuZ9VQPUrkkTFN1"
+          },
+          "href": "https://api.spotify.com/v1/albums/2h82v2JZuZ9VQPUrkkTFN1",
+          "id": "2h82v2JZuZ9VQPUrkkTFN1",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/7a82b1cf9adf65e8e19e55bf7ca6aa3c771f3330",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/984bf88f9ec75d11041f53eb540ab7299b9654fe",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ae92f5f6d5fde3b471b07131423dc0e8f6b8785e",
+              "width": 64
+            }
+          ],
+          "name": "The Sign (The Remixes)",
+          "type": "album",
+          "uri": "spotify:album:2h82v2JZuZ9VQPUrkkTFN1"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+            "id": "5ksRONqssB7BR161NTtJAm",
+            "name": "Ace of Base",
+            "type": "artist",
+            "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 408533,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH0805701"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3sM1ncxPiL0UCBlIVkb637",
+        "id": "3sM1ncxPiL0UCBlIVkb637",
+        "name": "The Sign - Ultimix",
+        "popularity": 12,
+        "preview_url": "https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=c747cb6d066d4198980607a2c6992938",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3sM1ncxPiL0UCBlIVkb637"
       }
     ],
     "limit": 20,
-    "next": "https://api.spotify.com/v1/search?query=hollaback+girl&type=track&offset=20&limit=20",
+    "next": "https://api.spotify.com/v1/search?query=The+Sign+Ace+Base&type=track&offset=20&limit=20",
     "offset": 0,
     "previous": null,
-    "total": 249
+    "total": 116
   }
 }

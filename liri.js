@@ -92,7 +92,7 @@ function getMovie() {
     console.log("Title: " + JSON.parse(body).Title);
     console.log("Release Year: " + JSON.parse(body).Year);
     console.log("imdb Rate: " + JSON.parse(body).imdbRating);
-    console.log("Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value);
+    // console.log("Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value);
     console.log("Languages: " + JSON.parse(body).Language);
     console.log("Plot: " + JSON.parse(body).Plot);
     console.log("Actors: " + JSON.parse(body).Actors)
@@ -153,6 +153,9 @@ inquirer
                 if (inquirerResponse.searchSong){
                     song = inquirerResponse.searchSong;
                     getSpotify();
+                } if (inquirerResponse.searchSong === "") {
+                    song = "The Sign Ace Base";
+                    getSpotify();
                 }
             }); 
          } 
@@ -170,8 +173,9 @@ inquirer
                 if (inquirerResponse.searchMovie){
                     movie = inquirerResponse.searchMovie;
                     getMovie();
-                } else {
-                    
+                } if (inquirerResponse.searchMovie === ""){
+                    movie = "Mr.Robot";
+                    getMovie();
                 }
             }); 
          }
