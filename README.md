@@ -25,9 +25,6 @@ lists dependent node packages, but for your convenvice, these are the ones to in
 
 `npm install fs`
 
-### Simple Node Logger
-
-`npm install simple-node-logger`
 
 ## Get Started
 
